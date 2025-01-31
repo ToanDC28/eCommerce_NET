@@ -1,0 +1,12 @@
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\bin\Debug\net8.0\ProductAPI.Domain.deps.json
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\bin\Debug\net8.0\ProductAPI.Domain.dll
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\bin\Debug\net8.0\ProductAPI.Domain.pdb
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.AssemblyInfoInputs.cache
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.AssemblyInfo.cs
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.csproj.CoreCompileInputs.cache
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.sourcelink.json
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.dll
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\obj\Debug\net8.0\refint\ProductAPI.Domain.dll
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.pdb
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Domain\obj\Debug\net8.0\ref\ProductAPI.Domain.dll

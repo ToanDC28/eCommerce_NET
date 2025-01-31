@@ -1,0 +1,15 @@
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.deps.json
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.runtimeconfig.json
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.csproj.AssemblyReference.cache
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.AssemblyInfoInputs.cache
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.AssemblyInfo.cs
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.sourcelink.json
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.dll
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\refint\eCommerce.SharedLibrary.dll
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.pdb
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.genruntimeconfig.cache
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.Shared\eCommerce.SharedLibrary\obj\Debug\net8.0\ref\eCommerce.SharedLibrary.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3c3zgPvKxOcTplXDV0kG7gbg4KCBVorfm1150S67Vqg=",
+  "Source": "ProductAPI.Host",
+  "BasePath": "_content/ProductAPI.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
