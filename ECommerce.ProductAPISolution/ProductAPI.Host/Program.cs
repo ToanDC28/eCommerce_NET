@@ -1,3 +1,7 @@
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
+using ProductAPI.Infrastructure.DI;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,8 +11,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddInfrastructureService(builder.Configuration);
 var app = builder.Build();
 
+app.Services.InitializeDatabasesAsync().Wait();
+
+app.UseInFrastructure();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

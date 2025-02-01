@@ -134,3 +134,5 @@ D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Hos
 D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Host\obj\Debug\net8.0\ProductAPI.Host.pdb
 D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Host\obj\Debug\net8.0\ProductAPI.Host.genruntimeconfig.cache
 D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Host\obj\Debug\net8.0\ref\ProductAPI.Host.dll
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Host\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+D:\C#\API\Microservice\eCommerce_NET\ECommerce.ProductAPISolution\ProductAPI.Host\bin\Debug\net8.0\EntityFramework.dll
