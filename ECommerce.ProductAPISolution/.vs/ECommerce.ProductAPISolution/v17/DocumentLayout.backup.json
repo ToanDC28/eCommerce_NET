@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.ProductAPISolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5379EBD-6B73-4261-B50F-C2C2D8BFC2B3}|..\\ECommerce.Shared\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|d:\\c#\\api\\microservice\\ecommerce_net\\ecommerce.shared\\ecommerce.sharedlibrary\\di\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1AB5EEAC-32ED-483B-AC67-14690D37B11C}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|d:\\c#\\api\\microservice\\ecommerce_net\\ecommerce.productapisolution\\productapi.infrastructure\\di\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AB5EEAC-32ED-483B-AC67-14690D37B11C}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\di\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5D5ACBF-CCEA-48A0-977D-95896A5AC105}|ProductAPI.Host\\ProductAPI.Host.csproj|d:\\c#\\api\\microservice\\ecommerce_net\\ecommerce.productapisolution\\productapi.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5D5ACBF-CCEA-48A0-977D-95896A5AC105}|ProductAPI.Host\\ProductAPI.Host.csproj|solutionrelative:productapi.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5379EBD-6B73-4261-B50F-C2C2D8BFC2B3}|..\\ECommerce.Shared\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|d:\\c#\\api\\microservice\\ecommerce_net\\ecommerce.shared\\ecommerce.sharedlibrary\\di\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5379EBD-6B73-4261-B50F-C2C2D8BFC2B3}|..\\ECommerce.Shared\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|d:\\c#\\api\\microservice\\ecommerce_net\\ecommerce.shared\\ecommerce.sharedlibrary\\di\\authenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -44,17 +44,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.ProductAPISolution\\ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
               "ToolTip": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.ProductAPISolution\\ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
               "RelativeToolTip": "ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABfAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T11:42:25.005Z",
               "EditorCaption": ""
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.ProductAPISolution\\ProductAPI.Host\\Program.cs",
               "RelativeDocumentMoniker": "ProductAPI.Host\\Program.cs",
@@ -86,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SharedServiceContainer.cs",
               "DocumentMoniker": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.Shared\\eCommerce.SharedLibrary\\DI\\SharedServiceContainer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.Shared\\eCommerce.SharedLibrary\\DI\\SharedServiceContainer.cs",
               "ToolTip": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.Shared\\eCommerce.SharedLibrary\\DI\\SharedServiceContainer.cs",
               "RelativeToolTip": "..\\ECommerce.Shared\\eCommerce.SharedLibrary\\DI\\SharedServiceContainer.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwDMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAEwDEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T10:34:25.043Z",
               "EditorCaption": ""

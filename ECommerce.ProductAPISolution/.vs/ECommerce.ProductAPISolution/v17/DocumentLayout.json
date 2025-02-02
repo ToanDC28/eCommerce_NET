@@ -47,19 +47,6 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceContainer.cs",
-              "DocumentMoniker": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.ProductAPISolution\\ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
-              "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
-              "ToolTip": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.ProductAPISolution\\ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
-              "RelativeToolTip": "ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwB4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T11:42:25.005Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -73,6 +60,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.ProductAPISolution\\ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
+              "ToolTip": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.ProductAPISolution\\ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
+              "RelativeToolTip": "ProductAPI.Infrastructure\\DI\\ServiceContainer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:42:25.005Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\API\\Microservice\\eCommerce_NET\\ECommerce.ProductAPISolution\\ProductAPI.Host\\Program.cs",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "ProductAPI.Host\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T11:32:29.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T11:32:29.506Z"
             },
             {
               "$type": "Document",
@@ -107,8 +105,7 @@
               "RelativeToolTip": "ProductAPI.Host\\Controllers\\ProductController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAA5wDUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T06:20:26.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T06:20:26.184Z"
             },
             {
               "$type": "Document",
@@ -120,8 +117,7 @@
               "RelativeToolTip": "ProductAPI.Host\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-01T05:58:55.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T05:58:55.569Z"
             },
             {
               "$type": "Document",
@@ -133,8 +129,7 @@
               "RelativeToolTip": "..\\ECommerce.Shared\\eCommerce.SharedLibrary\\DI\\AuthenticationScheme.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T06:14:17.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T06:14:17.117Z"
             },
             {
               "$type": "Document",
@@ -146,8 +141,7 @@
               "RelativeToolTip": "ProductAPI.Infrastructure\\Repositories\\PorductPrepository.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAgwKAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:01:47.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T04:01:47.702Z"
             },
             {
               "$type": "Document",
@@ -159,8 +153,7 @@
               "RelativeToolTip": "ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:04:19.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T04:04:19.767Z"
             },
             {
               "$type": "Document",
@@ -172,8 +165,7 @@
               "RelativeToolTip": "ProductAPI.Application\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:00:38.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T04:00:38.639Z"
             }
           ]
         },
